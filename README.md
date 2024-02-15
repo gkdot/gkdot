@@ -3,7 +3,9 @@
 i'm currently a computer science & economics double major at the college of william & mary.
 
 ```yaml
-my toolkit: python, java, c, c++. typescript, html, css, latex | react, firebase | git, vscode, eclipse, intellij, pycharm
+my toolkit: python, java, c, c++. typescript, html, css, latex
+            react, firebase
+            git, vscode, eclipse, intellij, pycharm
 ```
 
 when i'm not coding, you can catch me trying new restaurants, travelling, baking, or buying books promising to read them eventually.
