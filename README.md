@@ -1,4 +1,4 @@
-# hi, i'm gigi kuffa! 👋
+# hi, i'm gigi! 👋
 
 i'm currently a computer science & economics double major at the college of william & mary.
 
