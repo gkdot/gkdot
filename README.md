@@ -4,7 +4,7 @@ i'm currently a computer science & economics double major at the college of will
 
 ```yaml
 my toolkit: python, java, c, c++. typescript, html, css, latex
-            react, firebase
+            react, firebase, django
             git, vscode, eclipse, intellij, pycharm
 ```
 
