@@ -1,4 +1,11 @@
-# hi, i'm gigi! 👋
+<p align="center"> <h1 align="center"> Gigi Kuffa </h1> </p>
+<p align="center">
+<a href="https://github.com/jdkuffa" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Gigi Kuffa" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/kuffa" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Gigi Kuffa" height="20" width="20" /></a>
+<a href="https://jdkuffa.github.io" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Gigi Kuffa" height="20" width="20" /></a>
+</p>
+
+hi, i'm gigi! 👋 
 
 i'm currently a computer science & economics double major at the college of william & mary.
 
