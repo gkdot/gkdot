@@ -1,6 +1,6 @@
 # hi! 👋
 
-i'm currently a computer science & economics double major at the college of william & mary.
+i'm currently a computer science & english double major at the college of william & mary.
 
 ```yaml
 my toolkit: python, java, c, c++, javascript, typescript, html / css, latex
