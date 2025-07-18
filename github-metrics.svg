@@ -1294,7 +1294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sambecker/exif-photo-blog</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image.</div>
@@ -1497,7 +1497,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2025, 11:22:54 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jul 2025, 12:28:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
